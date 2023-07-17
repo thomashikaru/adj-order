@@ -1,0 +1,4 @@
+phrase,order,sentence_id,language
+大きな 経済的 負担,adj_noun,train-s293,ja
+多情 無情 剣,adj_noun,train-s1480,ja
+こうした 高機能 テレビ,adj_noun,train-s3016,ja
